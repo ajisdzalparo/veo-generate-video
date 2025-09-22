@@ -214,6 +214,7 @@ const App: React.FC = () => {
             )}
           </div>
         </main>
+        <footer className="mt-10 text-center text-gray-500 text-sm">Developed by Ajis Dzalparo</footer>
       </div>
     </div>
   );
